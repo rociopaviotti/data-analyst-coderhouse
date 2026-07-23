@@ -1,3 +1,8 @@
+CREATE DATABASE Ventas_Tech_DB;
+GO
+USE Ventas_Tech_DB;
+GO
+
 DROP TABLE IF EXISTS ventas;
 DROP TABLE IF EXISTS productos;
 DROP TABLE IF EXISTS clientes;
